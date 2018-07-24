@@ -2,6 +2,7 @@
   "author" : "amirmiked12",
   "description" : "Patch For Improved Container mod",
   "friendlyName" : "immersive props Sip Patch",
+  "requires" : ["Immersive props", "Improved Containers"],
   "name" : "Improved Container props Patch",
   "version" : "1.05"
 }
